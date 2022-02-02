@@ -13,6 +13,4 @@ public class AplicacionParaLeer {
 			System.out.print((char) i);
 		}
 	}
-	
-	
 }
